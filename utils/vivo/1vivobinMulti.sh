@@ -8,8 +8,8 @@ vpsVIVODefinitionFile=vpsVIVoDefs.txt
 # - Port
 # - IP Address (Singular to begin)
 
-mncount=0
-index=0
+mncount=2
+index=2
 initialise() {
     echo "Cleaning up existing vpsVIVO deployment"
     rm -rf vpsVIVO/
